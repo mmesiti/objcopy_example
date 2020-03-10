@@ -1,1 +1,2 @@
 print_something PREFIX_print_something
+some_non_static_fun PREFIX_some_non_static_fun 
