@@ -1,4 +1,4 @@
-# Objcopy exmaple
+# Objcopy example
 
 This is an example where we have some source files (e.g., `lib.c`) that we want
 to compile multiple times with, e.g., differently defined quantities (e.g. the
